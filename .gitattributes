@@ -1,0 +1,1 @@
+/Users/donghunshin/Documents/End-to-end-Medical-Chatbot-using-Llama2/model/llama-2-7b-chat.ggmlv3.q4_0.bin filter=lfs diff=lfs merge=lfs -text
